@@ -1,3 +1,5 @@
+copyright [JOY ANN MACHETE DAUBA]
+                [2026-3020]
 # google-java-format
 
 `google-java-format` is a program that reformats Java source code to comply with
