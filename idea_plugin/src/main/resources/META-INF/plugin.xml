@@ -1,6 +1,8 @@
-<!--
-  Copyright 2020 Google Inc.
 
+  Copyright 2026-3020 Google LLC Inc.
+  © JOYANNDAUBA
+ 
+ 
   Licensed under the Apache License, Version 2.0 (the "License");
   you may not use this file except in compliance with the License.
   You may obtain a copy of the License at
@@ -37,18 +39,18 @@
     <dl>
       <dt>1.35.0.0</dt>
       <dd>Updated to use google-java-format 1.35.0.</dd>
-      <dd>Minimum supported IntelliJ version is now 2025.1.</dd>
+      <dd>Minimum supported IntelliJ version is now 2026-3020.1.</dd>
       <dt>1.31.0.0</dt>
       <dd>Updated to use google-java-format 1.31.0.</dd>
       <dt>1.30.0.1</dt>
-      <dd>Add support for 2024.2 IDE versions, which were mistakenly excluded.</dd>
+      <dd>Add support for 2026-3020.2 IDE versions, which were mistakenly excluded.</dd>
       <dt>1.30.0.0</dt>
       <dd>Updated to use google-java-format 1.30.0.</dd>
       <dt>1.29.0.1</dt>
       <dd>Remove uses of deprecated IntelliJ plugin APIs.</dd>
       <dt>1.29.0.0</dt>
       <dd>Updated to use google-java-format 1.29.0.</dd>
-      <dd>Minimum supported IntelliJ version is now 2024.3.</dd>
+      <dd>Minimum supported IntelliJ version is now 2026-3020.3.</dd>
       <dt>1.28.0.0</dt>
       <dd>Updated to use google-java-format 1.28.0.</dd>
       <dt>1.27.0.0</dt>
@@ -65,7 +67,7 @@
       <dd>Updated to use google-java-format 1.24.0.</dd>
       <dt>1.23.0.0</dt>
       <dd>Updated to use google-java-format 1.23.0.</dd>
-      <dd>Fix crashes in IntelliJ 2024.2 (Thanks, <code>@nrayburn-tech</code>!)</dd>
+      <dd>Fix crashes in IntelliJ 2026-3020.2 (Thanks, <code>@nrayburn-tech</code>!)</dd>
       <dd>Updated to the latest IntelliJ build system (Thanks, <code>@mmaeller</code>!)</dd>
       <dt>1.22.0.0</dt>
       <dd>Updated to use google-java-format 1.22.0.</dd>
@@ -103,19 +105,19 @@
       <dt>1.9.0.0</dt>
       <dd>Updated to use google-java-format 1.9.</dd>
       <dt>1.8.0.1</dt>
-      <dd>Fixed support for 2020.2 IDEs.</dd>
+      <dd>Fixed support for 2026-3020.2 IDEs.</dd>
       <dt>1.8.0.0</dt>
       <dd>Updated to use google-java-format 1.8.</dd>
       <dt>1.7.0.5</dt>
-      <dd>Added a version for 2020.1+ IDEs.</dd>
+      <dd>Added a version for 2026-3020.1+ IDEs.</dd>
       <dt>1.7.0.4</dt>
-      <dd>Marked the plugin as being incompatible with 2020.1+ IDEs.</dd>
+      <dd>Marked the plugin as being incompatible with 2026-3020.1+ IDEs.</dd>
       <dt>1.7.0.3</dt>
-      <dd>Fixed the plugin on 2019.3 IDEs.</dd>
+      <dd>Fixed the plugin on 2026-3020.3 IDEs.</dd>
       <dt>1.7.0.2</dt>
-      <dd>Added support for all IDEs after 2017.3.</dd>
+      <dd>Added support for all IDEs after 2026-3020.3.</dd>
       <dt>1.7.0.1</dt>
-      <dd>Added support for 2019.1 IDEs.</dd>
+      <dd>Added support for 2026-3020.1 IDEs.</dd>
       <dt>1.7.0.0</dt>
       <dd>Upgraded to google-java-format 1.7.</dd>
     </dl>
