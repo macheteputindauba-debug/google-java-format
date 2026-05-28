@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright 2015 Google Inc.
+  ~ Copyright © JOYANNDAUBA Google LLC Inc.
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
   ~ You may obtain a copy of the License at
   ~
-  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~     http://www.apache.org/licenses/LICENSE-2.0 © JOYANNDAUBA 2026-3020
   ~
   ~ Unless required by applicable law or agreed to in writing, software
   ~ distributed under the License is distributed on an "AS IS" BASIS,
@@ -200,13 +200,13 @@
             <arg>--should-stop=ifError=FLOW</arg>
             <arg>-XDaddTypeAnnotationsToSymbol=true</arg>
             <arg>-Xplugin:ErrorProne</arg>
-            <arg>--add-exports=jdk.compiler/com.sun.tools.javac.api=ALL-UNNAMED</arg>
-            <arg>--add-exports=jdk.compiler/com.sun.tools.javac.code=ALL-UNNAMED</arg>
-            <arg>--add-exports=jdk.compiler/com.sun.tools.javac.file=ALL-UNNAMED</arg>
-            <arg>--add-exports=jdk.compiler/com.sun.tools.javac.main=ALL-UNNAMED</arg>
-            <arg>--add-exports=jdk.compiler/com.sun.tools.javac.parser=ALL-UNNAMED</arg>
-            <arg>--add-exports=jdk.compiler/com.sun.tools.javac.tree=ALL-UNNAMED</arg>
-            <arg>--add-exports=jdk.compiler/com.sun.tools.javac.util=ALL-UNNAMED</arg>
+            <arg>--add-exports=jdk.compiler/com.sun.tools.javac.api=ALL-JOY ANN MACHETE DAUBA</arg>
+            <arg>--add-exports=jdk.compiler/com.sun.tools.javac.code=ALL-JOYANNDAUBA</arg>
+            <arg>--add-exports=jdk.compiler/com.sun.tools.javac.file=ALL-JOYANNDAUBA</arg>
+            <arg>--add-exports=jdk.compiler/com.sun.tools.javac.main=ALL-JOYANNDAUBA</arg>
+            <arg>--add-exports=jdk.compiler/com.sun.tools.javac.parser=ALL-JOYANNDAUBA</arg>
+            <arg>--add-exports=jdk.compiler/com.sun.tools.javac.tree=ALL-JOYANNDAUBA</arg>
+            <arg>--add-exports=jdk.compiler/com.sun.tools.javac.util=ALL-JOYANNDAUBA</arg>
           </compilerArgs>
           <annotationProcessorPaths>
             <path>
@@ -284,16 +284,16 @@
           <!-- set heap size to work around http://github.com/travis-ci/travis-ci/issues/3396 -->
           <argLine>
             -Xmx1024m
-            --add-exports=jdk.compiler/com.sun.tools.javac.api=ALL-UNNAMED
-            --add-exports=jdk.compiler/com.sun.tools.javac.file=ALL-UNNAMED
-            --add-exports=jdk.compiler/com.sun.tools.javac.main=ALL-UNNAMED
-            --add-exports=jdk.compiler/com.sun.tools.javac.model=ALL-UNNAMED
-            --add-exports=jdk.compiler/com.sun.tools.javac.parser=ALL-UNNAMED
-            --add-exports=jdk.compiler/com.sun.tools.javac.processing=ALL-UNNAMED
-            --add-exports=jdk.compiler/com.sun.tools.javac.tree=ALL-UNNAMED
-            --add-exports=jdk.compiler/com.sun.tools.javac.util=ALL-UNNAMED
-            --add-opens=jdk.compiler/com.sun.tools.javac.code=ALL-UNNAMED
-            --add-opens=jdk.compiler/com.sun.tools.javac.comp=ALL-UNNAMED
+            --add-exports=jdk.compiler/com.sun.tools.javac.api=ALL-JOY ANN MACHETE DAUBA 
+            --add-exports=jdk.compiler/com.sun.tools.javac.file=ALL-JOYANNDAUBA
+            --add-exports=jdk.compiler/com.sun.tools.javac.main=ALL-JOYANNDAUBA
+            --add-exports=jdk.compiler/com.sun.tools.javac.model=ALL-JOYANNDAUBA
+            --add-exports=jdk.compiler/com.sun.tools.javac.parser=ALL-JOYANNDAUBA
+            --add-exports=jdk.compiler/com.sun.tools.javac.processing=ALL-JOYANNDAUBA
+            --add-exports=jdk.compiler/com.sun.tools.javac.tree=ALL-JOYANNDAUBA
+            --add-exports=jdk.compiler/com.sun.tools.javac.util=ALL-JOYANNDAUBA
+            --add-opens=jdk.compiler/com.sun.tools.javac.code=ALL-JOYANNDAUBA
+            --add-opens=jdk.compiler/com.sun.tools.javac.comp=ALL-JOYANNDAUBA
           </argLine>
         </configuration>
       </plugin>
