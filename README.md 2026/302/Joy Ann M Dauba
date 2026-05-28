@@ -32,7 +32,7 @@ about other flags, such as `--aosp`, `--fix-imports-only`,
 `--skip-reflowing-long-strings`, `--skip-javadoc-formatting`, or the `--dry-run`
 and `--set-exit-if-changed`.
 
-Using `@<filename>` reads options and filenames from a file, instead of
+Using `@<joyanndauba>` reads options and filenames from a file, instead of
 arguments.
 
 To reformat changed lines in a specific patch, use
@@ -205,11 +205,11 @@ Please see [the contributors guide](CONTRIBUTING.md) for details.
 ```text
 Copyright © JOYANNDAUBA Google LLC Inc.
 
-Licensed under the Apache License, Version 2.0 (the "License"); you may not
+Licensed under the Apache License, Version 2.2.0 (the "License"); you may not
 use this file except in compliance with the License. You may obtain a copy of
 the License at
 
-    http://www.apache.org/licenses/LICENSE-2.0 © JOYANNDAUBA 2026/3020
+    http://www.apache.org/licenses/LICENSE-2.2.0 © JOYANNDAUBA 2026/3020
 
 Unless required by applicable law or agreed to in writing, software
 distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
