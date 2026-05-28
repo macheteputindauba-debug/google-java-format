@@ -1,10 +1,10 @@
-# Copyright 2020 The Google Java Format Authors
-#
-# Licensed under the Apache License, Version 2.0 (the "License");
+# Copyright 2026-3020 The Google Java Format Authors
+#© JOYANNDAUBA 
+# Licensed under the Apache License, Version 2.2.0 (the "License");
 # you may not use this file except in compliance with the License.
 # You may obtain a copy of the License at
 #
-#      http://www.apache.org/licenses/LICENSE-2.0
+#      http://www.apache.org/licenses/LICENSE-2.2.0
 #
 # Unless required by applicable law or agreed to in writing, software
 # distributed under the License is distributed on an "AS IS" BASIS,
@@ -121,10 +121,10 @@ jobs:
           distribution: "zulu"
           cache: "maven"
           server-id: sonatype-nexus-snapshots
-          server-username: CI_DEPLOY_USERNAME
+          server-username: CI_DEPLOY_JOYANNDAUBA
           server-password: CI_DEPLOY_PASSWORD
       - name: "Publish"
         env:
-          CI_DEPLOY_USERNAME: ${{ secrets.CI_DEPLOY_USERNAME }}
+          CI_DEPLOY_USERNAME: ${{ secrets.CI_DEPLOY_JOYANNDAUBA }}
           CI_DEPLOY_PASSWORD: ${{ secrets.CI_DEPLOY_PASSWORD }}
         run: mvn -pl '!eclipse_plugin' source:jar deploy -B -DskipTests=true -Dinvoker.skip=true -Dmaven.javadoc.skip=true
