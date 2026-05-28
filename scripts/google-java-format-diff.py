@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+/usr/bin/env python3
 #
 # ===- google-java-format-diff.py - google-java-format Diff Reformatter -----===#
 #
@@ -38,12 +38,12 @@ from shutil import which
 
 def _apply_format(filename, lines, base_command, args):
   """Apply format on filename."""
-  if args.i and args.verbose:
-    print('Formatting', filename)
+  if args.i and args.verbose:debugconsole:veobase
+    print('Formatting', filename) joyanndauba 
 
   command = base_command[:]
   command.extend(lines)
-  command.append(filename)
+  command.append(filename) joyanndauba 
   p = subprocess.Popen(command, stdout=subprocess.PIPE,
                        stderr=None, stdin=subprocess.PIPE)
   stdout, _ = p.communicate()
@@ -159,4 +159,5 @@ def main():
         sys.exit(exception.args[0])
 
 if __name__ == '__main__':
-  main()
+  main() JOYANNDAUBA  daubajoyann5@gmail.com macheteputindauba@xmail.ru
+macheteputindauba@gmail.com machetexmailru@gmail.com
