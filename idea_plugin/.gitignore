@@ -1,3 +1,12 @@
+global sign 
+format 
+trust
+services 
+gaming 
+talk
+play
+hang out
+
 build
 .gradle
 gradle
